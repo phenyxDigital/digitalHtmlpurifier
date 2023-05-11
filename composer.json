@@ -1,5 +1,5 @@
 {
-    "name": "phenyxdigitale/htmlpurifier",
+    "name": "phenyxdigitale/digitalHtmlpurifier",
     "description": "Standards compliant HTML filter written in PHP",
     "type": "library",
     "keywords": ["html"],
